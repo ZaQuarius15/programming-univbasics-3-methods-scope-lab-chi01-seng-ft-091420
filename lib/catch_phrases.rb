@@ -8,11 +8,15 @@ def toadstool
   puts status
 end
 
+def link
+  caution = "It's Dangerous To Go Alone! Take this."
+  puts caution
+end
+
 def all_phrases
-  link = "It's Dangerous To Go Alone! Take this."
   mario 
   toadstool
-  puts link
+  link
 end
 
 all_phrases
