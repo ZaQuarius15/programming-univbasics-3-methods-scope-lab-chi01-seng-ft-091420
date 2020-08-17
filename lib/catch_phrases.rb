@@ -13,3 +13,5 @@ def all_phrases
   taodstool
   puts "It's Dangerous To Go Alone! Take this."
 end
+
+all_phrases
