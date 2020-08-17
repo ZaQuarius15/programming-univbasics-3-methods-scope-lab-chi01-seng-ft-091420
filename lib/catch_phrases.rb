@@ -10,7 +10,7 @@ end
 
 def all_phrases
   mario 
-  taodstool
+  toadstool
   puts "It's Dangerous To Go Alone! Take this."
 end
 
