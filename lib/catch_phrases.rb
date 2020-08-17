@@ -9,9 +9,10 @@ def toadstool
 end
 
 def all_phrases
+  link = "It's Dangerous To Go Alone! Take this."
   mario 
   toadstool
-  puts "It's Dangerous To Go Alone! Take this."
+  puts link
 end
 
 all_phrases
